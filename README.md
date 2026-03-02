@@ -1,2 +1,6 @@
 # Dubraska-Veroes
-Soy una profesional que se ha destacado por ser responsable, creativa y con la iniciativa necesaria para establecer lineamientos estratégicos y gerenciales en las diferentes actividades de planificación y de esta manera lograr resolver problemas eficientemente, así como alcanzar las metas de productividad y seguridad trazadas por la empresa y mi grupo de trabajo. Además tengo conocimientos en el sistema de SAP, Softwares, Auto CAD 2007, MS Office y Visual Basic, con preparación en la rama del mantenimiento mecánico y la confiablidad de equipos. Además me considero una persona organizada, con gran destreza en el manejo de relaciones interpersonales y facilidad para trabajar en equipo.
+Profesional con experiencia en Data Governance, gestión de proyectos y transformación de procesos basada en datos, liderando iniciativas end-to-end en entornos corporativos complejos y de gran escala (retail, servicios y operaciones).
+
+He trabajado definiendo y ejecutando prácticas de gobierno del dato, calidad, privacidad y trazabilidad de la información, colaborando estrechamente con áreas de negocio, tecnología, data engineering y analytics para asegurar adopción y generación de valor.
+
+Cuento con experiencia liderando iniciativas de datos y transformación, gestionando roadmaps, backlog, stakeholders y equipos multidisciplinares, bajo metodologías ágiles (Scrum, Kanban), con foco en eficiencia operativa, automatización y mejora continua
